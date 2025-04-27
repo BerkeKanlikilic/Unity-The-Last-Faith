@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: faaafc67e3d34f74794e5984ee77af02, type: 3}
+  m_Name: Card_05 2
+  m_EditorClassIdentifier: 
+  id: 52
+  sdgNumber: 13
+  sdgColor: {r: 0.2509804, g: 0.49803925, b: 0.27450982, a: 1}
+  cardName: Evolutionary Machine Learning
+  cardDescription: Survival of the highest fitness score.
+  unlockText: 'Effect: +10% Research gained + Unlocks: New Research'
+  _processPower: 0
+  _science: -4
+  _idea: 0
+  _allocationCard: 52
+  _researchCardIds: 
+  weeklyScience: 1.2
+  weeklySDG13: 0
+  weeklyIdea: 0
+  _goalName: AI Mutations
+  _startingGoal: 8
+  _startingGoalModifier: 12
+  _goalProcess: 4
+  _goalScience: 0
+  _goalIdea: 0
+  _aifEffect: 0
+  _soPositiveEffect: 0.1
+  _soNegativeEffect: 0
+  _poPositiveEffect: 0
+  _poNegativeEffect: 0

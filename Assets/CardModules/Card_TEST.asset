@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: faaafc67e3d34f74794e5984ee77af02, type: 3}
+  m_Name: Card_TEST
+  m_EditorClassIdentifier: 
+  id: -1
+  sdgNumber: 3
+  sdgColor: {r: 0.29803923, g: 0.6313726, b: 0.27450982, a: 1}
+  cardName: Test Card Name
+  cardDescription: Test Card Description
+  unlockText: 
+  _processPower: 1
+  _science: 0
+  _allocationCard: 0
+  _researchCardIds: 
+  weeklyScience: 0.2
+  weeklySDG13: 0
+  _goalName: Test Goal name
+  _startingGoal: 10
+  _goalProcess: 0
+  _goalScience: 1
+  _aifEffect: 5
+  _soPositiveEffect: 3
+  _soNegativeEffect: 0
+  _poPositiveEffect: 0
+  _poNegativeEffect: 6

@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: faaafc67e3d34f74794e5984ee77af02, type: 3}
+  m_Name: Card_02
+  m_EditorClassIdentifier: 
+  id: 2
+  sdgNumber: 13
+  sdgColor: {r: 0.2509804, g: 0.49803925, b: 0.27450982, a: 1}
+  cardName: 'SDG 13: Climate Action'
+  cardDescription: Ensure healthy lives and promote well-being for all.
+  unlockText: 'Unlocks: New Research'
+  _processPower: 0
+  _science: -1
+  _allocationCard: 0
+  _researchCardIds: 03000000
+  weeklyScience: 0
+  weeklySDG13: 0
+  _goalName: Training Data Studied
+  _startingGoal: 5
+  _startingGoalModifier: 0
+  _goalProcess: 1
+  _goalScience: 0
+  _aifEffect: 3
+  _soPositiveEffect: 0
+  _soNegativeEffect: 0
+  _poPositiveEffect: 1.2
+  _poNegativeEffect: 0

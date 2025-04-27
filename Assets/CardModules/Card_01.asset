@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: faaafc67e3d34f74794e5984ee77af02, type: 3}
+  m_Name: Card_01
+  m_EditorClassIdentifier: 
+  id: 1
+  sdgNumber: 9
+  sdgColor: {r: 0.9490197, g: 0.4156863, b: 0.1764706, a: 1}
+  cardName: Supervised Machine Learning
+  cardDescription: 
+  unlockText: 
+  _processPower: 0
+  _science: 0
+  _idea: 0
+  _allocationCard: 0
+  _researchCardIds: 
+  weeklyScience: 1
+  weeklySDG13: 0
+  weeklySDG17: 0
+  weeklyIdea: 0
+  _goalName: Training Data Studied
+  _startingGoal: 5
+  _startingGoalModifier: 8
+  _goalProcess: 1
+  _goalScience: 0
+  _goalIdea: 0
+  _aifEffect: 1
+  _soPositiveEffect: 0.1
+  _soNegativeEffect: 0
+  _poPositiveEffect: 0
+  _poNegativeEffect: 0

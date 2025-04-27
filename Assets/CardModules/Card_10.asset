@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: faaafc67e3d34f74794e5984ee77af02, type: 3}
+  m_Name: Card_10
+  m_EditorClassIdentifier: 
+  id: 10
+  sdgNumber: 9
+  sdgColor: {r: 0.9490197, g: 0.4156863, b: 0.1764706, a: 1}
+  cardName: Basic Sorting Algorithms
+  cardDescription: Allows for more efficient file storage.
+  unlockText: 'Effect: +10 Memory'
+  _processPower: 0
+  _science: -15
+  _idea: 0
+  _memory: 10
+  _allocationCard: 0
+  _researchCardIds: 
+  weeklyScience: 0
+  weeklySDG13: 0
+  weeklySDG17: 0
+  weeklyIdea: 0
+  _goalName: Reevaluate previous data.
+  _startingGoal: 12
+  _startingGoalModifier: 24
+  _goalProcess: 0
+  _goalScience: 0
+  _goalIdea: 0
+  _aifEffect: 0
+  _soPositiveEffect: 0.2
+  _soNegativeEffect: 0
+  _poPositiveEffect: 0
+  _poNegativeEffect: 0

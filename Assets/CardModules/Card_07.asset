@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: faaafc67e3d34f74794e5984ee77af02, type: 3}
+  m_Name: Card_07
+  m_EditorClassIdentifier: 
+  id: 7
+  sdgNumber: 13
+  sdgColor: {r: 0.2509804, g: 0.49803925, b: 0.27450982, a: 1}
+  cardName: Filters For Chimneys
+  cardDescription: Encouraging to use filters for chimneys.
+  unlockText: 'Effect: +25% Research gained'
+  _processPower: 1
+  _science: -10
+  _idea: -4
+  _memory: 0
+  _allocationCard: 0
+  _researchCardIds: 
+  weeklyScience: 0
+  weeklySDG13: 2
+  weeklySDG17: 0
+  weeklyIdea: 0
+  _goalName: Discover new advertisement techniques.
+  _startingGoal: 10
+  _startingGoalModifier: 16
+  _goalProcess: 2
+  _goalScience: 0
+  _goalIdea: 0
+  _aifEffect: 0
+  _soPositiveEffect: 0.2
+  _soNegativeEffect: 0
+  _poPositiveEffect: 0
+  _poNegativeEffect: 0
